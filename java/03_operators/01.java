@@ -1,6 +1,6 @@
 class Opeartor{
     
-    public static void main(){
+    public static void main(String a[]){
 
         int num1 = 288;
         int num2 = 87;

@@ -2,7 +2,7 @@
 
 class Opeartor{
     
-    public static void main(){
+    public static void main(String a[]){
 
         int x = 18;
         int y = 7;
